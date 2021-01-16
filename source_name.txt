@@ -1,0 +1,553 @@
+In archive libtensorflow-microlite.a:
+
+simple_memory_allocator.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   7012 Dec  4 15:36 2020 simple_memory_allocator.o
+
+
+micro_error_reporter.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1988 Dec  4 15:36 2020 micro_error_reporter.o
+
+
+memory_helpers.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   4424 Dec  4 15:36 2020 memory_helpers.o
+
+
+test_helpers.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  72364 Dec  4 15:36 2020 test_helpers.o
+
+
+micro_utils.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2164 Dec  4 15:36 2020 micro_utils.o
+
+
+recording_micro_allocator.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  12956 Dec  4 15:36 2020 recording_micro_allocator.o
+
+
+micro_time.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1120 Dec  4 15:36 2020 micro_time.o
+
+
+recording_simple_memory_allocator.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   4604 Dec  4 15:36 2020 recording_simple_memory_allocator.o
+
+
+micro_string.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2644 Dec  4 15:36 2020 micro_string.o
+
+
+micro_profiler.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3368 Dec  4 15:36 2020 micro_profiler.o
+
+
+debug_log.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1356 Dec  4 15:36 2020 debug_log.o
+
+
+all_ops_resolver.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  27208 Dec  4 15:36 2020 all_ops_resolver.o
+
+
+micro_interpreter.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  16420 Dec  4 15:36 2020 micro_interpreter.o
+
+
+micro_allocator.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  32616 Dec  4 15:36 2020 micro_allocator.o
+
+
+keyword_scrambled_model_data.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  35028 Dec  4 15:36 2020 keyword_scrambled_model_data.o
+
+
+linear_memory_planner.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3280 Dec  4 15:36 2020 linear_memory_planner.o
+
+
+greedy_memory_planner.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   7876 Dec  4 15:36 2020 greedy_memory_planner.o
+
+
+test_conv_model.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  22420 Dec  4 15:36 2020 test_conv_model.o
+
+
+common.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2652 Dec  4 15:36 2020 common.o
+
+
+error_reporter.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1216 Dec  4 15:36 2020 error_reporter.o
+
+
+flatbuffer_conversions.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  27784 Dec  4 15:37 2020 flatbuffer_conversions.o
+
+
+op_resolver.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   5756 Dec  4 15:37 2020 op_resolver.o
+
+
+tensor_utils.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1032 Dec  4 15:37 2020 tensor_utils.o
+
+
+quantization_util.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   9288 Dec  4 15:37 2020 quantization_util.o
+
+
+kernel_util.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   9484 Dec  4 15:37 2020 kernel_util.o
+
+
+schema_utils.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1940 Dec  4 15:37 2020 schema_utils.o
+
+
+mul.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  22904 Dec  4 15:37 2020 mul.o
+
+
+concatenation.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  16696 Dec  4 15:37 2020 concatenation.o
+
+
+prelu.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   8968 Dec  4 15:37 2020 prelu.o
+
+
+dequantize.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   6956 Dec  4 15:37 2020 dequantize.o
+
+
+ethosu.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1300 Dec  4 15:37 2020 ethosu.o
+
+
+neg.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2488 Dec  4 15:37 2020 neg.o
+
+
+l2norm.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   9864 Dec  4 15:37 2020 l2norm.o
+
+
+resize_nearest_neighbor.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   8124 Dec  4 15:37 2020 resize_nearest_neighbor.o
+
+
+tanh.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  13156 Dec  4 15:37 2020 tanh.o
+
+
+kernel_util.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1716 Dec  4 15:37 2020 kernel_util.o
+
+
+ceil.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3976 Dec  4 15:37 2020 ceil.o
+
+
+pad.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  12712 Dec  4 15:37 2020 pad.o
+
+
+conv.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  10292 Dec  4 15:37 2020 conv.o
+
+
+unpack.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3884 Dec  4 15:37 2020 unpack.o
+
+
+sub.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  16792 Dec  4 15:37 2020 sub.o
+
+
+add.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  17088 Dec  4 15:37 2020 add.o
+
+
+pooling.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   9040 Dec  4 15:37 2020 pooling.o
+
+
+floor.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2676 Dec  4 15:37 2020 floor.o
+
+
+kernel_runner.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   5664 Dec  4 15:37 2020 kernel_runner.o
+
+
+split_v.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   7396 Dec  4 15:37 2020 split_v.o
+
+
+logistic.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   9156 Dec  4 15:37 2020 logistic.o
+
+
+pack.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   4092 Dec  4 15:37 2020 pack.o
+
+
+detection_postprocess.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  24252 Dec  4 15:37 2020 detection_postprocess.o
+
+
+svdf.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   8084 Dec  4 15:37 2020 svdf.o
+
+
+hard_swish.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   7272 Dec  4 15:37 2020 hard_swish.o
+
+
+shape.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3292 Dec  4 15:37 2020 shape.o
+
+
+round.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   4256 Dec  4 15:37 2020 round.o
+
+
+quantize.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   7680 Dec  4 15:37 2020 quantize.o
+
+
+elementwise.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  11876 Dec  4 15:37 2020 elementwise.o
+
+
+activations.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   9408 Dec  4 15:37 2020 activations.o
+
+
+fully_connected.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  10440 Dec  4 15:37 2020 fully_connected.o
+
+
+reshape.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   4732 Dec  4 15:37 2020 reshape.o
+
+
+reduce.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  20344 Dec  4 15:37 2020 reduce.o
+
+
+softmax.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  18344 Dec  4 15:37 2020 softmax.o
+
+
+split.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   7972 Dec  4 15:37 2020 split.o
+
+
+logical.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   6772 Dec  4 15:37 2020 logical.o
+
+
+comparisons.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  60628 Dec  4 15:37 2020 comparisons.o
+
+
+maximum_minimum.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  14976 Dec  4 15:37 2020 maximum_minimum.o
+
+
+arg_min_max.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  14772 Dec  4 15:37 2020 arg_min_max.o
+
+
+depthwise_conv.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  11824 Dec  4 15:37 2020 depthwise_conv.o
+
+
+circular_buffer.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   5040 Dec  4 15:37 2020 circular_buffer.o
+
+
+strided_slice.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000  14032 Dec  4 15:37 2020 strided_slice.o
+
+
+flexbuffers_generated_data.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1912 Dec  4 15:37 2020 flexbuffers_generated_data.o
+
+
+arm_concatenation_s8_z.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1088 Dec  4 15:37 2020 arm_concatenation_s8_z.o
+
+
+arm_concatenation_s8_y.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1088 Dec  4 15:37 2020 arm_concatenation_s8_y.o
+
+
+arm_concatenation_s8_x.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1080 Dec  4 15:37 2020 arm_concatenation_s8_x.o
+
+
+arm_concatenation_s8_w.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1056 Dec  4 15:37 2020 arm_concatenation_s8_w.o
+
+
+arm_svdf_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2172 Dec  4 15:37 2020 arm_svdf_s8.o
+
+
+arm_nn_mult_q15.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1148 Dec  4 15:37 2020 arm_nn_mult_q15.o
+
+
+arm_nn_mult_q7.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1192 Dec  4 15:37 2020 arm_nn_mult_q7.o
+
+
+arm_nn_depthwise_conv_nt_t_padded_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000    988 Dec  4 15:37 2020 arm_nn_depthwise_conv_nt_t_padded_s8.o
+
+
+arm_nn_mat_mult_nt_t_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   4244 Dec  4 15:37 2020 arm_nn_mat_mult_nt_t_s8.o
+
+
+arm_q7_to_q15_no_shift.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1040 Dec  4 15:37 2020 arm_q7_to_q15_no_shift.o
+
+
+arm_nntables.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   4628 Dec  4 15:37 2020 arm_nntables.o
+
+
+arm_nn_mat_mul_core_1x_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1004 Dec  4 15:37 2020 arm_nn_mat_mul_core_1x_s8.o
+
+
+arm_nn_mat_mul_core_4x_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1076 Dec  4 15:37 2020 arm_nn_mat_mul_core_4x_s8.o
+
+
+arm_nn_vec_mat_mult_t_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3012 Dec  4 15:37 2020 arm_nn_vec_mat_mult_t_s8.o
+
+
+arm_nn_add_q7.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1000 Dec  4 15:37 2020 arm_nn_add_q7.o
+
+
+arm_q7_to_q15_reordered_no_shift.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1060 Dec  4 15:37 2020 arm_q7_to_q15_reordered_no_shift.o
+
+
+arm_nn_depthwise_conv_nt_t_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000    968 Dec  4 15:37 2020 arm_nn_depthwise_conv_nt_t_s8.o
+
+
+arm_q7_to_q15_with_offset.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1068 Dec  4 15:37 2020 arm_q7_to_q15_with_offset.o
+
+
+arm_nn_accumulate_q7_to_q15.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1092 Dec  4 15:37 2020 arm_nn_accumulate_q7_to_q15.o
+
+
+arm_q7_to_q15_reordered_with_offset.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1084 Dec  4 15:37 2020 arm_q7_to_q15_reordered_with_offset.o
+
+
+arm_elementwise_mul_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2068 Dec  4 15:37 2020 arm_elementwise_mul_s8.o
+
+
+arm_elementwise_add_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3128 Dec  4 15:37 2020 arm_elementwise_add_s8.o
+
+
+arm_softmax_q7.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1028 Dec  4 15:37 2020 arm_softmax_q7.o
+
+
+arm_softmax_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   4016 Dec  4 15:37 2020 arm_softmax_s8.o
+
+
+arm_softmax_u8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3972 Dec  4 15:37 2020 arm_softmax_u8.o
+
+
+arm_softmax_q15.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1192 Dec  4 15:37 2020 arm_softmax_q15.o
+
+
+arm_softmax_with_batch_q7.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1084 Dec  4 15:37 2020 arm_softmax_with_batch_q7.o
+
+
+arm_relu_q15.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000    988 Dec  4 15:37 2020 arm_relu_q15.o
+
+
+arm_relu_q7.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1032 Dec  4 15:37 2020 arm_relu_q7.o
+
+
+arm_relu6_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000    940 Dec  4 15:37 2020 arm_relu6_s8.o
+
+
+arm_nn_activations_q15.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1236 Dec  4 15:37 2020 arm_nn_activations_q15.o
+
+
+arm_nn_activations_q7.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1156 Dec  4 15:37 2020 arm_nn_activations_q7.o
+
+
+arm_fully_connected_q15.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1424 Dec  4 15:37 2020 arm_fully_connected_q15.o
+
+
+arm_fully_connected_q7.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1576 Dec  4 15:37 2020 arm_fully_connected_q7.o
+
+
+arm_fully_connected_q15_opt.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1484 Dec  4 15:37 2020 arm_fully_connected_q15_opt.o
+
+
+arm_fully_connected_q7_opt.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1772 Dec  4 15:37 2020 arm_fully_connected_q7_opt.o
+
+
+arm_fully_connected_mat_q7_vec_q15.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1512 Dec  4 15:37 2020 arm_fully_connected_mat_q7_vec_q15.o
+
+
+arm_fully_connected_mat_q7_vec_q15_opt.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1548 Dec  4 15:37 2020 arm_fully_connected_mat_q7_vec_q15_opt.o
+
+
+arm_fully_connected_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1324 Dec  4 15:37 2020 arm_fully_connected_s8.o
+
+
+arm_reshape_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1008 Dec  4 15:37 2020 arm_reshape_s8.o
+
+
+arm_depthwise_conv_3x3_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2496 Dec  4 15:37 2020 arm_depthwise_conv_3x3_s8.o
+
+
+arm_convolve_1x1_s8_fast.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1344 Dec  4 15:37 2020 arm_convolve_1x1_s8_fast.o
+
+
+arm_depthwise_separable_conv_HWC_q7_nonsquare.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2072 Dec  4 15:37 2020 arm_depthwise_separable_conv_HWC_q7_nonsquare.o
+
+
+arm_convolve_HWC_q15_fast_nonsquare.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1884 Dec  4 15:37 2020 arm_convolve_HWC_q15_fast_nonsquare.o
+
+
+arm_convolve_HWC_q7_fast_nonsquare.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3248 Dec  4 15:37 2020 arm_convolve_HWC_q7_fast_nonsquare.o
+
+
+arm_nn_mat_mult_kernel_s8_s16.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2348 Dec  4 15:37 2020 arm_nn_mat_mult_kernel_s8_s16.o
+
+
+arm_depthwise_conv_wrapper_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1600 Dec  4 15:37 2020 arm_depthwise_conv_wrapper_s8.o
+
+
+arm_nn_mat_mult_kernel_q7_q15.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1796 Dec  4 15:37 2020 arm_nn_mat_mult_kernel_q7_q15.o
+
+
+arm_convolve_HWC_q15_fast.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1824 Dec  4 15:37 2020 arm_convolve_HWC_q15_fast.o
+
+
+arm_convolve_HWC_q7_fast.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   3160 Dec  4 15:37 2020 arm_convolve_HWC_q7_fast.o
+
+
+arm_convolve_1_x_n_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1240 Dec  4 15:37 2020 arm_convolve_1_x_n_s8.o
+
+
+arm_depthwise_conv_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2676 Dec  4 15:37 2020 arm_depthwise_conv_s8.o
+
+
+arm_convolve_HWC_q7_basic_nonsquare.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1872 Dec  4 15:37 2020 arm_convolve_HWC_q7_basic_nonsquare.o
+
+
+arm_nn_depthwise_conv_s8_core.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000    968 Dec  4 15:37 2020 arm_nn_depthwise_conv_s8_core.o
+
+
+arm_depthwise_conv_u8_basic_ver1.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2580 Dec  4 15:37 2020 arm_depthwise_conv_u8_basic_ver1.o
+
+
+arm_depthwise_conv_s8_opt.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2888 Dec  4 15:37 2020 arm_depthwise_conv_s8_opt.o
+
+
+arm_convolve_wrapper_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1828 Dec  4 15:37 2020 arm_convolve_wrapper_s8.o
+
+
+arm_nn_mat_mult_kernel_s8_s16_reordered.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2052 Dec  4 15:37 2020 arm_nn_mat_mult_kernel_s8_s16_reordered.o
+
+
+arm_depthwise_separable_conv_HWC_q7.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2000 Dec  4 15:37 2020 arm_depthwise_separable_conv_HWC_q7.o
+
+
+arm_convolve_HWC_q7_RGB.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1744 Dec  4 15:37 2020 arm_convolve_HWC_q7_RGB.o
+
+
+arm_convolve_1x1_HWC_q7_fast_nonsquare.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1584 Dec  4 15:37 2020 arm_convolve_1x1_HWC_q7_fast_nonsquare.o
+
+
+arm_nn_mat_mult_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000    936 Dec  4 15:37 2020 arm_nn_mat_mult_s8.o
+
+
+arm_convolve_HWC_q15_basic.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1652 Dec  4 15:37 2020 arm_convolve_HWC_q15_basic.o
+
+
+arm_convolve_HWC_q7_basic.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1804 Dec  4 15:37 2020 arm_convolve_HWC_q7_basic.o
+
+
+arm_nn_mat_mult_kernel_q7_q15_reordered.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1536 Dec  4 15:37 2020 arm_nn_mat_mult_kernel_q7_q15_reordered.o
+
+
+arm_convolve_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2272 Dec  4 15:37 2020 arm_convolve_s8.o
+
+
+arm_avgpool_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1600 Dec  4 15:37 2020 arm_avgpool_s8.o
+
+
+arm_pool_q7_HWC.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   2888 Dec  4 15:37 2020 arm_pool_q7_HWC.o
+
+
+arm_max_pool_s8.o:     file format elf32-littlearm
+rw-rw-r-- 1000/1000   1820 Dec  4 15:37 2020 arm_max_pool_s8.o
+
