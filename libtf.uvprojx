@@ -10,7 +10,7 @@
       <TargetName>libtf</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
-      <pCCUsed>6150000::V6.15::ARMCLANG</pCCUsed>
+      <pCCUsed>6100001::V6.10.1::.\ARMCLANG</pCCUsed>
       <uAC6>1</uAC6>
       <TargetOption>
         <TargetCommonOption>
@@ -313,7 +313,7 @@
           </ArmAdsMisc>
           <Cads>
             <interw>1</interw>
-            <Optim>5</Optim>
+            <Optim>7</Optim>
             <oTime>0</oTime>
             <SplitLS>0</SplitLS>
             <OneElfS>1</OneElfS>
@@ -511,42 +511,42 @@
             <File>
               <FileName>add.cc</FileName>
               <FileType>8</FileType>
-              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis-nn/add.cc</FilePath>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis_nn/add.cc</FilePath>
             </File>
             <File>
               <FileName>conv.cc</FileName>
               <FileType>8</FileType>
-              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis-nn/conv.cc</FilePath>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis_nn/conv.cc</FilePath>
             </File>
             <File>
               <FileName>depthwise_conv.cc</FileName>
               <FileType>8</FileType>
-              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis-nn/depthwise_conv.cc</FilePath>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cc</FilePath>
             </File>
             <File>
               <FileName>fully_connected.cc</FileName>
               <FileType>8</FileType>
-              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis-nn/fully_connected.cc</FilePath>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cc</FilePath>
             </File>
             <File>
               <FileName>mul.cc</FileName>
               <FileType>8</FileType>
-              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis-nn/mul.cc</FilePath>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis_nn/mul.cc</FilePath>
             </File>
             <File>
               <FileName>pooling.cc</FileName>
               <FileType>8</FileType>
-              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis-nn/pooling.cc</FilePath>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cc</FilePath>
             </File>
             <File>
               <FileName>softmax.cc</FileName>
               <FileType>8</FileType>
-              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis-nn/softmax.cc</FilePath>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cc</FilePath>
             </File>
             <File>
               <FileName>svdf.cc</FileName>
               <FileType>8</FileType>
-              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis-nn/svdf.cc</FilePath>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cc</FilePath>
             </File>
             <File>
               <FileName>comparisons.cc</FileName>
@@ -597,6 +597,11 @@
               <FileName>floor.cc</FileName>
               <FileType>8</FileType>
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/floor.cc</FilePath>
+            </File>
+            <File>
+              <FileName>fully_connected_common.cc</FileName>
+              <FileType>8</FileType>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/fully_connected_common.cc</FilePath>
             </File>
             <File>
               <FileName>hard_swish.cc</FileName>
@@ -669,6 +674,16 @@
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/quantize.cc</FilePath>
             </File>
             <File>
+              <FileName>quantize.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/quantize.h</FilePath>
+            </File>
+            <File>
+              <FileName>quantize_common.cc</FileName>
+              <FileType>8</FileType>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/quantize_common.cc</FilePath>
+            </File>
+            <File>
               <FileName>reduce.cc</FileName>
               <FileType>8</FileType>
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/reduce.cc</FilePath>
@@ -694,6 +709,11 @@
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/shape.cc</FilePath>
             </File>
             <File>
+              <FileName>softmax_common.cc</FileName>
+              <FileType>8</FileType>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/softmax_common.cc</FilePath>
+            </File>
+            <File>
               <FileName>split.cc</FileName>
               <FileType>8</FileType>
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/split.cc</FilePath>
@@ -714,9 +734,19 @@
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/sub.cc</FilePath>
             </File>
             <File>
+              <FileName>svdf_common.cc</FileName>
+              <FileType>8</FileType>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/svdf_common.cc</FilePath>
+            </File>
+            <File>
               <FileName>tanh.cc</FileName>
               <FileType>8</FileType>
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/tanh.cc</FilePath>
+            </File>
+            <File>
+              <FileName>transpose_conv.cc</FileName>
+              <FileType>8</FileType>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/transpose_conv.cc</FilePath>
             </File>
             <File>
               <FileName>unpack.cc</FileName>

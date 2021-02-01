@@ -62,7 +62,14 @@ if __name__ == "__main__":
     OUTPUT_FILE = ' --output_file ./libtf.uvprojx'
     EXECUTABLE = ' --executable libtf'
     HDRS = ' --hdrs ./libtf.h'
-    SRCS = ' --srcs ./libtf.cc C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/openmvcam/debug_log.cc'
+    SRCS = ' --srcs ./libtf.cc C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/openmvcam/debug_log.cc ' \
+           ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/transpose_conv.cc' \
+           ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/fully_connected_common.cc' \
+           ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/softmax_common.cc' \
+           ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/svdf_common.cc' \
+           ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/quantize_common.cc ' \
+           #' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/transpose.cc '
+ 
     INCLUDE_PATH = ' --include_paths'
     DEFINES = ' --defines'
 
