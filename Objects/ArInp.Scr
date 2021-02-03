@@ -56,6 +56,7 @@
 .\objects\sub.o
 .\objects\svdf_common.o
 .\objects\tanh.o
+.\objects\transpose.o
 .\objects\transpose_conv.o
 .\objects\unpack.o
 .\objects\memory_helpers.o

@@ -744,6 +744,11 @@
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/tanh.cc</FilePath>
             </File>
             <File>
+              <FileName>transpose.cc</FileName>
+              <FileType>8</FileType>
+              <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/transpose.cc</FilePath>
+            </File>
+            <File>
               <FileName>transpose_conv.cc</FileName>
               <FileType>8</FileType>
               <FilePath>C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/transpose_conv.cc</FilePath>

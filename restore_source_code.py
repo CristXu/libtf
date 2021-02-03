@@ -68,7 +68,7 @@ if __name__ == "__main__":
            ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/softmax_common.cc' \
            ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/svdf_common.cc' \
            ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/quantize_common.cc ' \
-           #' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/transpose.cc '
+           ' C:/Users/nxf48054/Desktop/share/tensorflow/tensorflow/lite/micro/kernels/transpose.cc '
  
     INCLUDE_PATH = ' --include_paths'
     DEFINES = ' --defines'
